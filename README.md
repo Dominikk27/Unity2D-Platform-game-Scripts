@@ -1,16 +1,16 @@
 # Unity2D Platform game scripts
-  # Player:
+  #Player:
     - Movement
     - Stomp Attack
     - Health System
     - Camera Follow
     
-  # Enemy:
+  #Enemy:
    - Movement
    - Die
    - Damage Player
  
-  # Misc:
+  #Misc:
    - Checkpoints
    - Level System
    - Music
