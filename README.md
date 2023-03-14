@@ -18,4 +18,6 @@
 
 These are very basic scripts for this type of games.
 (Also the code is not completely clean)
+
+Preview: (removed)
   
