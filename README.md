@@ -1,9 +1,8 @@
 # Unity2D Platform game scripts
   #Player:
-    - Movement
-    - Stomp Attack
-    - Health System
-    - Camera Follow
+   - Movement
+   - Stomp Attack
+   - Camera Follow
     
   #Enemy:
    - Movement
